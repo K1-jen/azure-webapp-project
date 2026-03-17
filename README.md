@@ -45,4 +45,5 @@ This project demonstrates a cloud-based multi-tier architecture built on Microso
 - Automate infrastructure deployment using PowerShell or Bicep
 
 📷 **Screenshots**
+
 <img width="452" height="283" alt="image" src="https://github.com/user-attachments/assets/7551c32f-7f8a-443d-a9f1-868205c3fca8" />
