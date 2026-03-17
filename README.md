@@ -11,37 +11,37 @@ Azure-based multi-tier web application with App Service, SQL Database, and GitHu
 This project demonstrates a cloud-based multi-tier architecture built on Microsoft Azure. It includes a web application hosted on Azure App Service, a backend Azure SQL Database, and continuous deployment using GitHub integration.
 
 
-🧱 Architecture
+🧱 **Architecture**
 - Frontend: Azure App Service (Node.js)
 - Backend: Azure SQL Database
 - Deployment: GitHub → Azure Deployment Center (CI/CD)
 - Security: Connection strings and firewall configuration
 
 
-🔐 Key Features
+🔐 **Key Features**
 - Secure database connectivity using environment variables
 - Cloud-hosted web application with scalable infrastructure
 - Automated deployment pipeline from GitHub
 - Basic network and firewall configuration for secure access
 
 
-🛠️ Technologies Used
+🛠️ **Technologies Used**
 - Microsoft Azure (App Service, SQL Database)
 - Node.js (Express)
 - GitHub (Version Control & CI/CD)
 
 
-🚀 What I Learned
+🚀 **What I Learned**
 - How to deploy and manage cloud applications in Azure
 - Connecting a web application to a managed SQL database
 - Configuring secure access and environment variables
 - Implementing continuous deployment using GitHub
 
 
-📈 Future Improvementss
+📈 **Future Improvements**
 - Integrate real database queries and dynamic data display
 - Add authentication using Microsoft Entra ID
 - Implement monitoring and logging with Azure Monitor
 - Automate infrastructure deployment using PowerShell or Bicep
 
-📷 Screenshots
+📷 **Screenshots**
