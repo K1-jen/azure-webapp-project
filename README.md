@@ -1,8 +1,5 @@
 # Azure-webapp-project
-Azure-based multi-tier web application with App Service, SQL Database, and GitHub CI/CD deployment.
-
-
-
+Built and deployed a full-stack multi-tier Azure web application with App Service, SQL Database, and CI/CD integration, resolving deployment, runtime, and infrastructure issues.
 
 
 **Azure Multi-Tier Web Application**
