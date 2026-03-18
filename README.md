@@ -41,6 +41,15 @@ This project demonstrates a cloud-based multi-tier architecture built on Microso
 - Implement monitoring and logging with Azure Monitor
 - Automate infrastructure deployment using PowerShell or Bicep
 
+
 📷 **Screenshots**
 
+
+
 <img width="452" height="283" alt="image" src="https://github.com/user-attachments/assets/7551c32f-7f8a-443d-a9f1-868205c3fca8" />
+
+- Azure resource group
+<img width="923" height="440" alt="Azure resource group" src="https://github.com/user-attachments/assets/e6c52b29-fa9d-4b21-acf8-e4f9fb880ae0" />
+
+- Kudu (Advanced Deployment Tool)
+<img width="896" height="431" alt="Kudu" src="https://github.com/user-attachments/assets/acf8c9c5-89b5-4c17-8243-afa2371bec38" />
